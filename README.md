@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there! I'm Nagadurga Randi</h1>
 <p align="center">
-  🚀 Aspiring Full-Stack Developer | 💡 Lifelong Learner | 🇮🇳 India
+   Aspiring Full-Stack Developer |  Lifelong Learner | 🇮🇳 India
 </p>
 
 ---
@@ -22,13 +22,13 @@
 
 ### 📘 About Me
 
-- 🎯 Passionate about building clean, interactive, and scalable web apps  
-- 🧠 Currently mastering: **JavaScript, React, and Full-Stack Dev**  
-- 🏗️ Practicing with real-world projects like:
+-  Passionate about building clean, interactive, and scalable web apps  
+-  Currently mastering: **JavaScript, React, and Full-Stack Dev**  
+-  Practicing with real-world projects like:
   - Matching Cards Game 🃏
   - Travel Gallery App 🌍
   - Weather Forecast Dashboard 🌤️  
-- 👨‍💻 Strong foundation in **Java & Python** for problem-solving and backend concepts  
+-  Strong foundation in **Java & Python** for problem-solving and backend concepts  
 - 💼 NCC Cadet: Focused, disciplined, and committed to excellence  
 
 ---
